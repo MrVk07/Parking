@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Parking/static/css/main.28223d69.css",
+    "main.js": "/Parking/static/js/main.849fd7da.js",
+    "index.html": "/Parking/index.html",
+    "main.28223d69.css.map": "/Parking/static/css/main.28223d69.css.map",
+    "main.849fd7da.js.map": "/Parking/static/js/main.849fd7da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28223d69.css",
+    "static/js/main.849fd7da.js"
+  ]
+}
