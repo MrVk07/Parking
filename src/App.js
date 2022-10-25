@@ -45,6 +45,7 @@ function App() {
       <div className="container">
         <Routes>
           <Route exact path="/" element={<Home vehicles={vehicles} handleAddvehicle={handleAddvehicle} handleDeleteVehicle={handleDeleteVehicle} />} />
+          <Route exact path="/Parking" element={<Home vehicles={vehicles} handleAddvehicle={handleAddvehicle} handleDeleteVehicle={handleDeleteVehicle} />} />
           <Route exact path="/about" element={<About />} />
         </Routes>
       </div>
